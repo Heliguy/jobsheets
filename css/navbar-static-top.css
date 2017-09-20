@@ -1,0 +1,15 @@
+body {
+  min-height: 2000px;
+}
+
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+
+.table {
+    text-align:center;
+}
+
+.table th {
+    text-align:center;
+}
